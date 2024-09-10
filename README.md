@@ -128,7 +128,7 @@ gcc -o execcheck2.o execcheck2.c
 
 
 
-##OUTPUT
+## OUTPUT
 
 ![image](https://github.com/user-attachments/assets/9097f9a4-e107-4b82-bd98-6ee14d768f4a)
 
